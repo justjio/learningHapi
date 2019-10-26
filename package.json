@@ -1,0 +1,19 @@
+{
+  "name": "rest-hapi",
+  "version": "1.0.0",
+  "description": "REST API application with Express, Monk, MongoDB, Mocha and Superagent",
+  "main": "hapi-app-joseph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Obiagba",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/good": "^8.2.4",
+    "@hapi/hapi": "^18.4.0",
+    "expect": "^24.9.0",
+    "mocha": "^6.2.2",
+    "monk": "^7.1.0",
+    "superagent": "^5.1.0"
+  }
+}
