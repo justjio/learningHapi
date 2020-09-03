@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/good": "^8.2.4",
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "expect": "^24.9.0",
     "mocha": "^6.2.2",
     "monk": "^7.1.0",
